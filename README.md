@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/MaxMEllon/git-recture?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
 作業が完了したら，
 - [ ]
 これを
