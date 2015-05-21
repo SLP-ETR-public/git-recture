@@ -1,1 +1,3 @@
-*fileB.txt
+/fileB.tx
+/bin/*
+/!.keep
