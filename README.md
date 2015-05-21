@@ -18,10 +18,12 @@
 - [x] gitconfigの設定をしらべて書いてみよう
   - [x] userとメールの設定
   - [x] 便利なalias
+
     rootディレクトリにある、.gitconfigにaliasを追加できる。
     aliasはコマンドを短縮することができる。
     [alias] 
       略した後 = 略したいもの
+
   - [x] 利用するエディター
 
 # .gitignore
