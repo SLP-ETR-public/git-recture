@@ -3,7 +3,7 @@
 ## 作業開始するときは git pull origin masterから
 
 作業が完了したら，
-- [ ]
+-  ]
 これを
 - [x]
 にしてね．作業メモもaddしてコミットするとなおよし
@@ -29,12 +29,12 @@
 
 # .gitignore
 
-- [ ] gitignoreをしらべてみよう
+- [x]gitignoreをしらべてみよう
   作業ディレクトリに.gitignoreを作成し、共有したくないファイルを指定しる
-  - [ ] .gitignoreに記入後，ファイルの作成->add->commit->push
-  - [ ] 既に追加されているファイルをignoreするとどうなるか．
+  - [x] .gitignoreに記入後，ファイルの作成->add->commit->push
+  - [x] 既に追加されているファイルをignoreするとどうなるか．
 
-  - [ ] file名の先頭に ! をつけるとどうなるか．
+  - [x] file名の先頭に ! をつけるとどうなるか．
 
 # ワイルドカード
 
