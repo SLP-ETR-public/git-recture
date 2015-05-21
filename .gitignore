@@ -1,3 +1,4 @@
-/fileB.tx
+
+/fileB.txt
 /bin/*
 !.keep
